@@ -35,14 +35,3 @@ public class CS106A_GraphicsProgramCheckerboard extends GraphicsProgram
 		}
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
